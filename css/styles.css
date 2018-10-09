@@ -1,0 +1,18 @@
+img {
+  width: 300px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: cursive;
+}
+
+li {
+  font-size: 20px;
+  line-height: 100 px;
+}
+
+p {
+  font: Helvetica;
+  font-size: 16 px;
+}
