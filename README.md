@@ -31,4 +31,4 @@ HTML
 
 GPL License.
 
-Copyright (c) 2018 Jared Reando
+Copyright (c) 2018 Jared Reando.
