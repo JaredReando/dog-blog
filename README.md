@@ -29,6 +29,6 @@ HTML
 
 ### License
 
-GPL License
+GPL License.
 
 Copyright (c) 2018 Jared Reando
