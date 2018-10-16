@@ -16,3 +16,12 @@ p {
   font-family: helvetica;
   font-size: 30px;
 }
+
+.nightmode {
+  background-color: black;
+  color: white;
+}
+
+.btn{
+  width: 100px;
+}
